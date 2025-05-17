@@ -1,0 +1,109 @@
+{
+    "categories": [
+      {
+        "id": "signature-cocktails",
+        "name": "Signature Cocktails",
+        "items": [
+          { "id": "ajs-special",     "name": "AJ’s Special",    "prices": { "price": 450 } },
+          { "id": "screwdriver",     "name": "Screwdriver",     "prices": { "price": 450 } },
+          { "id": "bloody-mary",     "name": "Bloody Mary",     "prices": { "price": 450 } },
+          { "id": "bloody-guava",    "name": "Bloody Guava",    "prices": { "price": 450 } },
+          { "id": "mojito",          "name": "Mojito",          "prices": { "price": 450 } },
+          { "id": "lit",             "name": "LIT",             "prices": { "price": 600 } }
+        ]
+      },
+      {
+        "id": "beer",
+        "name": "Beer",
+        "items": [
+          { "id": "people",                 "name": "People",                 "prices": { "price": 180 } },
+          { "id": "shandy",                 "name": "Shandy",                 "prices": { "price": 180 } },
+          { "id": "magnum-pint",            "name": "Magnum Pint",            "prices": { "price": 180 } },
+          { "id": "corona-pint",            "name": "Corona Pint",            "prices": { "price": 200 } },
+          { "id": "tuborg-pint",            "name": "Tuborg Pint",            "prices": { "price": 130 } },
+          { "id": "kingfisher-pint",        "name": "Kingfisher Pint",        "prices": { "price": 130 } },
+          { "id": "kingfisher-strong-pint", "name": "Kingfisher Strong Pint", "prices": { "price": 150 } },
+          { "id": "budweiser-pint",         "name": "Budweiser Pint",         "prices": { "price": 150 } },
+          { "id": "heineken-pint",          "name": "Heineken Pint",          "prices": { "price": 180 } },
+          { "id": "bira-pint",              "name": "Bira Pint",              "prices": { "price": 180 } },
+          { "id": "kingfisher-ultra-pint",  "name": "Kingfisher Ultra Pint",  "prices": { "price": 150 } },
+          { "id": "carlsberg-pint",         "name": "Carlsberg Pint",         "prices": { "price": 150 } },
+          { "id": "budweiser-large",        "name": "Budweiser Large",        "prices": { "price": 210 } },
+          { "id": "kingfisher-large",       "name": "Kingfisher Large",       "prices": { "price": 180 } },
+          { "id": "kingfisher-large-strong","name": "Kingfisher Large Strong","prices": { "price": 220 } },
+          { "id": "breezer",                "name": "Breezer",                "prices": { "price": 150 } }
+        ]
+      },
+      {
+        "id": "brandy-gin",
+        "name": "Brandy / Gin",
+        "items": [
+          { "id": "honey-bee",     "name": "Honey Bee",     "prices": { "30ml": 50,  "60ml": 80  } },
+          { "id": "mason-house",   "name": "Mason House",   "prices": { "30ml": 60,  "60ml": 100 } },
+          { "id": "blue-ribbon",   "name": "Blue Ribbon",   "prices": { "30ml": 60,  "60ml": 100 } },
+          { "id": "greater-than",  "name": "Greater Than",  "prices": { "30ml": 150, "60ml": 250 } },
+          { "id": "bombay-saphire","name": "Bombay Saphire","prices": { "30ml": 350, "60ml": 650 } }
+        ]
+      },
+      {
+        "id": "wine",
+        "name": "Wine",
+        "items": [
+          { "id": "sula-red",        "name": "Sula Red",       "prices": { "price": 480 } },
+          { "id": "sula-white",      "name": "Sula White",     "prices": { "price": 450 } },
+          { "id": "port-wine-no-7",  "name": "Port Wine No. 7","prices": { "price": 150 } }
+        ]
+      },
+      {
+        "id": "whiskey",
+        "name": "Whiskey",
+        "items": [
+          { "id": "chivas-regal",    "name": "Chivas Regal",   "prices": { "30ml": 400, "60ml": 700 } },
+          { "id": "black-label",     "name": "Black Label",    "prices": { "30ml": 400, "60ml": 700 } },
+          { "id": "jack-daniels",    "name": "Jack Daniels",   "prices": { "30ml": 400, "60ml": 700 } },
+          { "id": "red-label",       "name": "Red Label",      "prices": { "30ml": 250, "60ml": 450 } },
+          { "id": "jim-beam",        "name": "Jim Beam",       "prices": { "30ml": 280, "60ml": 500 } },
+          { "id": "ballentine",      "name": "Ballentine",     "prices": { "30ml": 250, "60ml": 450 } },
+          { "id": "jameson",         "name": "Jameson",        "prices": { "30ml": 300, "60ml": 500 } },
+          { "id": "jagermeister",    "name": "Jagermeister",   "prices": { "30ml": 400, "60ml": 600 } },
+          { "id": "teachers",        "name": "Teachers",       "prices": { "30ml": 180, "60ml": 300 } },
+          { "id": "black-dog",       "name": "Black Dog",      "prices": { "30ml": 180, "60ml": 300 } },
+          { "id": "black-and-white", "name": "Black & White",  "prices": { "30ml": 180, "60ml": 300 } },
+          { "id": "vat-69",          "name": "VAT 69",         "prices": { "30ml": 150, "60ml": 250 } },
+          { "id": "antiquity",       "name": "Antiquity",      "prices": { "30ml":  90, "60ml": 150 } },
+          { "id": "signature",       "name": "Signature",      "prices": { "30ml":  90, "60ml": 150 } },
+          { "id": "blenders-pride",  "name": "Blenders Pride", "prices": { "30ml": 100, "60ml": 180 } },
+          { "id": "royal-stag",      "name": "Royal Stag",     "prices": { "30ml":  60, "60ml": 100 } },
+          { "id": "mc-dowel",        "name": "M’C Dowel",      "prices": { "30ml":  60, "60ml": 100 } }
+        ]
+      },
+      {
+        "id": "tequila",
+        "name": "Tequila",
+        "items": [
+          { "id": "desmonji",     "name": "Desmonji",     "prices": { "price": 300 } },
+          { "id": "pistola-gold", "name": "Pistola Gold", "prices": { "price": 700 } }
+        ]
+      },
+      {
+        "id": "vodka",
+        "name": "Vodka",
+        "items": [
+          { "id": "absolute",   "name": "Absolute",   "prices": { "30ml": 220, "60ml": 400 } },
+          { "id": "smirnoff",   "name": "Smirnoff",   "prices": { "30ml": 100, "60ml": 180 } },
+          { "id": "romanov",    "name": "Romanov",    "prices": { "30ml":  60, "60ml": 100 } }
+        ]
+      },
+      {
+        "id": "rum",
+        "name": "Rum",
+        "items": [
+          { "id": "bacardi",       "name": "Bacardi",       "prices": { "30ml": 120, "60ml": 200 } },
+          { "id": "captain-morgan","name": "Captain Morgan","prices": { "30ml":  80, "60ml": 150 } },
+          { "id": "cabo-coconut",  "name": "Cabo Coconut",  "prices": { "30ml": 120, "60ml": 200 } },
+          { "id": "old-monk",      "name": "Old Monk",      "prices": { "30ml":  80, "60ml": 120 } }
+        ]
+      }
+    ]
+  }
+  
